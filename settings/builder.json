@@ -1,0 +1,26 @@
+{
+  "appKey": "11",
+  "appSecret": "11",
+  "excludeScenes": [],
+  "includeAnySDK": true,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "11",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": true,
+    "upsideDown": true
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "privateKey": "111",
+  "renderMode": "0",
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "title": "nba",
+  "webOrientation": "auto"
+}

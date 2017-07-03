@@ -1,0 +1,10 @@
+export default {
+    DEBUG: true,
+    OPENKEY: '51531B68E0FEC7E85A18FD0B9E53E8E4',
+    OPENID: 'E35AA55AD0E74CCE11EB53342415E362',
+    // OPENKEY: '7EBD184ECC233438598593805762D261',
+    // OPENID: 'C2511CF6DB8A5D63B02F4A0A84A6CD6F',
+    ttsid: 'aaaaaaaaaa',
+    SERVER_PATH: 'http://qzone.ttnbalite.com',
+    TEST_SERVER_PATH: 'http://test.ttnbalite.com'
+}

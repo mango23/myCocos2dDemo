@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "2958df2d-abfb-4e3f-822e-a3da8610bbf2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "BENCH_badge": {
+      "ver": "1.0.3",
+      "uuid": "8305f917-a253-4d87-9b71-900e82154866",
+      "rawTextureUuid": "2958df2d-abfb-4e3f-822e-a3da8610bbf2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 6,
+      "trimY": 4,
+      "width": 278,
+      "height": 114,
+      "rawWidth": 290,
+      "rawHeight": 122,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
